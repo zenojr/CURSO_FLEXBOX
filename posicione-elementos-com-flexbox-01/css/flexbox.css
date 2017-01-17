@@ -36,6 +36,12 @@
 	height: 260px;
 }
 
+.box{
+	height: 50px;
+	width: 50px;
+	background-color: green;
+}
+
 .conteudoPrincipal-cursos {
 	display: flex;
 	flex-wrap: wrap;
